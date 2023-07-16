@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uzair-Shahid
-- 👀 I’m interested in Wbsite Development
+- 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me ... 
     uzairarain.2121.golarchi@gmail.com
